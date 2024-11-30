@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "950121782880",
+    "project_id": "zimcop-connect-d7a36",
+    "storage_bucket": "zimcop-connect-d7a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950121782880:android:f2ab6c34ff511f8dd46d05",
+        "android_client_info": {
+          "package_name": "com.example.zimcop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK0YLLp6kLvCHg3U-eEjOrc1ly7Gvolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950121782880:android:1a4521fea13156acd46d05",
+        "android_client_info": {
+          "package_name": "com.example.zimcop_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK0YLLp6kLvCHg3U-eEjOrc1ly7Gvolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950121782880:android:be767819a90c611ad46d05",
+        "android_client_info": {
+          "package_name": "com.zimcop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK0YLLp6kLvCHg3U-eEjOrc1ly7Gvolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
